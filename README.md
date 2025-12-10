@@ -77,7 +77,6 @@ Includes:
 - Custom Formatting  
 - Sparklines  
 - Data Validation  
-- Formulas: `SUMIFS`, `AVERAGEIFS`, `LOOKUP`, `TEXT`, `% Change`, etc.
 
 ### Visualization Techniques
 - KPI Cards  
@@ -93,8 +92,9 @@ Includes:
 
 | File | Description |
 |------|-------------|
-| `Zex_Business_Dashboard.xlsx` | Main interactive dashboard |
+| `Dashboard _FINAL_.xlsx` | Main interactive dashboard |
 | `README.md` | Project documentation |
+| `Dataset` | contains the dataset used |
 
 ---
 
