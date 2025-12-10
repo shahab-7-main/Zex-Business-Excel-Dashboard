@@ -1,5 +1,4 @@
-📊 Zex Business Excel Dashboard
-# 📊 Excel Business Intelligence Dashboard  
+# 📊 Zex Business Excel Dashboard  
 ### Sales, Profit & Customer Analytics
 
 This project showcases an **interactive Excel Business Intelligence Dashboard** designed to analyze **sales performance, profitability, customer demographics, store-level insights, and monthly trends**.  
