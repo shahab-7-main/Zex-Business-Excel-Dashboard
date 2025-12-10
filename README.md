@@ -99,12 +99,15 @@ Includes:
 ---
 
 ## 📸 Dashboard Preview
+`Profit View`
+> <img src = "https://github.com/shahab-7-main/Zex-Business-Excel-Dashboard/blob/main/Preview/Profit%20View.png"><a>
+----
+`Store Dashboard`
+> <img src = "https://github.com/shahab-7-main/Zex-Business-Excel-Dashboard/blob/main/Preview/Store%20Dashboard.png"><a>
+----
+`Time Frame`
+> <img src = "https://github.com/shahab-7-main/Zex-Business-Excel-Dashboard/blob/main/Preview/Time-Frame.png"><a>
 
-> *(Add your dashboard screenshots here)*  
-> Example:  
-> `![Profit View](images/profit-view.png)`  
-> `![Store Dashboard](images/store-dashboard.png)`  
-> `![Time Frame](images/time-frame.png)`  
 
 ---
 
