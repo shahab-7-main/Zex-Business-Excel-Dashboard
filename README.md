@@ -94,6 +94,7 @@ Includes:
 | `Dashboard _FINAL_.xlsx` | Main interactive dashboard |
 | `README.md` | Project documentation |
 | `Dataset` | contains the dataset used |
+| `Preview` | contains the images of the dashboard |
 
 ---
 
